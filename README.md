@@ -7,3 +7,4 @@ This is being developed during JStack, which is a programming course powered by 
 - NodeJS 💚
 - Express 💨
 - Yarn 🧵
+- PostgreSQL 🐘
